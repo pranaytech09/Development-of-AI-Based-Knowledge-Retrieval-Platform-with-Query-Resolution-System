@@ -1,0 +1,20 @@
+﻿# AI and Machine Learning Guide
+
+## What is AI?
+Artificial Intelligence refers to computer systems designed to perform tasks that typically require human intelligence.
+
+## Machine Learning
+Machine Learning is a subset of AI that focuses on enabling systems to learn and improve from experience.
+
+## Deep Learning
+Deep Learning uses neural networks with multiple layers to process complex patterns.
+
+## Applications
+- Image Recognition
+- Natural Language Processing
+- Predictive Analytics
+- Robotics
+- Autonomous Vehicles
+
+## Conclusion
+AI is transforming technology and business.
